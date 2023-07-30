@@ -1,5 +1,5 @@
 # Car-Following-Model-Speed-Prediction
-Speed prediction in a car following model using machine learning models
+Speed prediction in a car-following model using machine learning models
 Car-following models were first introduced in the 1950s to analyze the kinematic relationship between consecutive vehicles along one travel lane without overtaking maneuvers. Car-following models are essential tools for traffic engineers, urban planners, and researchers to analyze and improve traffic flow, safety, and overall transportation efficiency in both existing and future road networks.
 
 
