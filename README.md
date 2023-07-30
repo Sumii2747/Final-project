@@ -61,14 +61,12 @@ Furthermore, we extend our sincere appreciation to Prof. Umair Durrani at St. Cl
 
 # References
 Geeksforgeeks.org, 2023. Introduction to Support Vector Machines (SVM). Available at: Introduction to Support Vector Machines (SVM) - GeeksforGeeks . Accessed 22nd July 2023.
-IBMa, 2023. What is random forest? Available at: https://www.ibm.com/topics/random-forest 
-Accessed 22nd July 2023.
+IBMa, 2023. What is random forest? Available at: https://www.ibm.com/topics/random-forest Accessed 22nd July 2023.
 IBMb, 2023. What is the k-nearest neighbors’ algorithm? Available at: What is the k-nearest neighbors algorithm? | IBM Accessed 22nd July 2023.
 Li et al. 2022. A Decision-Making Strategy for Car Following Based on Naturalist Driving Data via Deep Reinforcement Learning. Available at: A Decision-Making Strategy for Car Following Based on Naturalist Driving Data via Deep Reinforcement Learning - ProQuest Accessed 12th April, 2023.
 Lantian et al 2017. An improved car-following model with multiple preceding cars’ velocity fluctuation feedback. Available at: An improved car-following model with multiple preceding cars’ velocity fluctuation feedback - ScienceDirect (oclc.org) Accessed 12th July, 2023.
 M. Montanino, V. Punzo, "Trajectory data reconstruction and simulation-based validation against macroscopic traffic patterns," Transportation Research Part B: Methodological, vol. 80, pp. 82-106, https://www.sciencedirect.com/science/article/abs/pii/S0191261515001393. Accessed 12th July, 2023.
- Next Generation Simulation (NGSIM) Open Data https://datahub.transportation.gov/stories/s/Next-Generation-Simulation-NGSIM-Open-Data/i5zb-xe34/  
-Updated NGSIM dataset https://github.com/Shuoxuan/NGSIM_Cleaned_Dataset 
+ Next Generation Simulation (NGSIM) Open Data https://datahub.transportation.gov/stories/s/Next-Generation-Simulation-NGSIM-Open-Data/i5zb-xe34/ Updated NGSIM dataset https://github.com/Shuoxuan/NGSIM_Cleaned_Dataset 
 Vineet D., Neel C., Rakesh S., 2022. Data-Driven Car-Following model. Available at; VineetDhamija/DataDrivenCarFollowing: 2022 Data Analytics Capstone (github.com)
 
 
