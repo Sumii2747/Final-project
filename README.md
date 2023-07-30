@@ -47,8 +47,29 @@ The study successfully developed predictive models for acceleration using Random
 ![image](https://github.com/gracedtope/Car-Following-Model-Speed-Prediction/assets/105440600/983e0e52-69c5-4daf-97c1-f0cc3b7855ce)
 
 
+# Conclusion
+In conclusion, the research findings highlight the efficacy of Random Forest as the best model for predicting reaction time in the velocity and spacing task. The improved prediction accuracy, especially at 0.5-second intervals, showcases the potential of RF in time-sensitive scenarios. These results have implications for applications in fields such as traffic management, human-computer interaction, driver assistance systems, and other time-critical decision-making processes
+
+# Future Work
+Future research endeavors should carefully consider the selection of ensemble techniques and the integration of KNN and SVM models with other classifiers, such as Random Forest (RF), Gradient Boosting Machines (GBM), or Neural Networks. The research should investigate the impact of different combinations and weighting schemes on prediction accuracy, computational efficiency, and model interpretability.
+
+# Acknowledgement
+We express our heartfelt gratitude to the U.S. Department of Transportation for their dedication to collecting and sharing the NGSIM data with the public. This dataset has been instrumental in enriching our project and contributing to the advancement of research in microscopic data-driven car-following models.
+
+Furthermore, we extend our sincere appreciation to Prof. Umair Durrani at St. Clair College for his invaluable guidance and unwavering support. His mentorship has been pivotal in transforming our project from a vision to a successful reality.
 
 
+# References
+Geeksforgeeks.org, 2023. Introduction to Support Vector Machines (SVM). Available at: Introduction to Support Vector Machines (SVM) - GeeksforGeeks . Accessed 22nd July 2023.
+IBMa, 2023. What is random forest? Available at: https://www.ibm.com/topics/random-forest 
+Accessed 22nd July 2023.
+IBMb, 2023. What is the k-nearest neighbors’ algorithm? Available at: What is the k-nearest neighbors algorithm? | IBM Accessed 22nd July 2023.
+Li et al. 2022. A Decision-Making Strategy for Car Following Based on Naturalist Driving Data via Deep Reinforcement Learning. Available at: A Decision-Making Strategy for Car Following Based on Naturalist Driving Data via Deep Reinforcement Learning - ProQuest Accessed 12th April, 2023.
+Lantian et al 2017. An improved car-following model with multiple preceding cars’ velocity fluctuation feedback. Available at: An improved car-following model with multiple preceding cars’ velocity fluctuation feedback - ScienceDirect (oclc.org) Accessed 12th July, 2023.
+M. Montanino, V. Punzo, "Trajectory data reconstruction and simulation-based validation against macroscopic traffic patterns," Transportation Research Part B: Methodological, vol. 80, pp. 82-106, https://www.sciencedirect.com/science/article/abs/pii/S0191261515001393. Accessed 12th July, 2023.
+ Next Generation Simulation (NGSIM) Open Data https://datahub.transportation.gov/stories/s/Next-Generation-Simulation-NGSIM-Open-Data/i5zb-xe34/  
+Updated NGSIM dataset https://github.com/Shuoxuan/NGSIM_Cleaned_Dataset 
+Vineet D., Neel C., Rakesh S., 2022. Data-Driven Car-Following model. Available at; VineetDhamija/DataDrivenCarFollowing: 2022 Data Analytics Capstone (github.com)
 
 
 
